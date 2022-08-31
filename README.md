@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá meu nome é Diego Gonçalves, Github usado para fins de estudo.
+
+<div align="center">
+  <a href="https://github.com/goncalves-diego">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalves-diego&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves-diego&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
 
 <!--
 **goncalves-diego/goncalves-diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
